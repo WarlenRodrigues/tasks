@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'tasks',
         'USER': 'cloud',
         'PASSWORD': 'cloud',
-        'HOST': '52.15.77.89',
+        'HOST': 'node1',
         'PORT': '5432',
     }
 }
